@@ -1,1 +1,1 @@
-# kandemir_copycenter
+https://kandemir.vercel.app/
